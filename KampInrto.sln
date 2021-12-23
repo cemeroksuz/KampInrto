@@ -3,11 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32002.185
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KampInrto", "KampInrto\KampInrto.csproj", "{C89EB554-CA73-482D-9386-B3BFF5FA7FAA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KampInrto", "KampInrto\KampInrto.csproj", "{C89EB554-CA73-482D-9386-B3BFF5FA7FAA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donguler", "Donguler\Donguler.csproj", "{725B1CC1-46C9-4919-82C2-B34E2C513F28}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Donguler", "Donguler\Donguler.csproj", "{725B1CC1-46C9-4919-82C2-B34E2C513F28}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{AFC380BF-3E7F-40A0-BA12-FF45CE65F3B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{AFC380BF-3E7F-40A0-BA12-FF45CE65F3B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotlar.csproj", "{A99EC269-F25F-48AB-8A69-146C6D0DB38A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matematik", "Matematik\Matematik.csproj", "{164DC29C-C19E-4F48-B3F9-3E163AC17A4A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{AFC380BF-3E7F-40A0-BA12-FF45CE65F3B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFC380BF-3E7F-40A0-BA12-FF45CE65F3B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFC380BF-3E7F-40A0-BA12-FF45CE65F3B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A99EC269-F25F-48AB-8A69-146C6D0DB38A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A99EC269-F25F-48AB-8A69-146C6D0DB38A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A99EC269-F25F-48AB-8A69-146C6D0DB38A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A99EC269-F25F-48AB-8A69-146C6D0DB38A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{164DC29C-C19E-4F48-B3F9-3E163AC17A4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{164DC29C-C19E-4F48-B3F9-3E163AC17A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{164DC29C-C19E-4F48-B3F9-3E163AC17A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{164DC29C-C19E-4F48-B3F9-3E163AC17A4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
